@@ -1,19 +1,17 @@
 ![MasterHead](https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif)
 <h1 align="center">Hi 👋 I'm Ashutosh</h1>
-<h3 align="center"><b> Surrounded By Data, But Starved For Insights </b></h3>
+<h3 align="center"><b> "Surrounded By Data, But Starved For Insights" </b></h3>
 <img align="right" alt = "Coding" width ="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-✨ About Me in 30 secs✨
+## ✨ About Me in 30 secs✨
 
-👀 I’m addicted to Data Analysis and I love learning new skills
+- 👀 I’m addicted to Data Analysis and I love learning new skills
 
-🛠 I have a Engineering background and started transitioning into Data Analytics in 2020
+- 🛠 I have a Civil Engineering background and started transitioning into Data Analytics in 2020
 
-🌱 I self-taught SQL and Tableau
+- 🌱 I self-taught SQL and Tableau
 
-📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
-
-💬 Ask me about **Python, SQL, Power BI**
+- 📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
