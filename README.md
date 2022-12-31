@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashutos-h/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/009/097/186/original/blue-color-white-background-linkedin-design-logo-sign-symbol-free-vector.jpg" alt="https://www.linkedin.com/in/ashutos-h/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashutos-h/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/009/097/186/original/blue-color-white-background-linkedin-design-logo-sign-symbol-free-vector.jpg" alt="https://www.linkedin.com/in/ashutos-h/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
